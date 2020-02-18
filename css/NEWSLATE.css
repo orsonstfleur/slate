@@ -1,0 +1,176 @@
+*{
+box-sizing: border-box;
+}
+
+header{
+  background-color:#2A060E;
+  width: 70%;
+  height: 330px;
+}
+footer{
+  margin-top: 7%;
+  background-color: black;
+  height: 45px;
+  text-align: center;
+  padding-top: 0.1%;
+
+}
+.Info{
+  float: left;
+  width: 25%;
+  color: white;
+  padding: 4% 7% 0% 3%;
+}
+.trumpImage{
+  float: left;
+  width: 40%;
+  height: 330px;
+}
+.transition{
+  color: white;
+  padding: 1% 2% 0% 0%;
+}
+.spar{
+  width: 18%;
+  background-color: white;
+  float: left;
+  height: 350px;
+  margin-top: 1%;
+}
+.empty{
+  background-color:white;
+  height: 367px;
+  width: 24%;
+  float: left;
+}
+.box{
+  background-color: white;
+  width: 70%;
+  height: 330px;
+}
+.maroon{
+  background-color: #530B1B;
+  margin-top: 0%;
+  height: 156px;
+  margin-left: 61%;
+  color: white
+
+}
+.join{
+  width: 70%;
+  margin-top: 4%;
+  border: solid 1px darkgrey;
+}
+.slatest{
+  float: left;
+  width: 30%;
+  height: 116px;
+}
+.nimble{
+  background-color: black;
+  width: 40%;
+  height: 116px;
+  float: left;
+  padding: 4% 2% 1% 2%;
+}
+.top{
+  background-color:;
+  width: 30%;
+  float: left;
+  margin-top: -50.5%;
+}
+.one{
+  background-color: #530B1B;
+  height: 75px;
+  margin-top: -4%;
+}
+.two{
+  height: 56px;
+  background-color: aliceblue;
+  margin-top: -4%;
+  background-color: black;
+  padding: 1% 2% 4%;
+}
+.three , .four , .five , .six , .seven , .eight , .nine , .ten , .eleven{
+      border: solid 1px grey;
+      height: 98px;
+}
+.trans{
+  color: white;
+  text-decoration: none;
+}
+.yellow{
+  color: yellow;
+  text-decoration: none;
+  font-size: 23px;
+}
+.stanzOne{
+  padding: 1%;
+  font-size: 19px;
+}
+.true{
+  text-align: center;
+  border-top: solid 1px white;
+  font-size: 95%;
+}
+.bigSlate{
+  font-size: 60px;
+  color: white;
+}
+h3{
+  color: bisque;
+  font-size: 90%;
+}
+.ham{
+  float: right;
+  margin: -23% 7% 0% 1%;
+}
+.burger{
+  color: white;
+}
+.lastly{
+  color: yellow;
+  text-decoration: underline;
+}
+.last{
+  color: white;
+}
+.cons{
+  width: 39%;
+  height: 200px;
+  border: solid 1px;
+  margin-left: 61%;
+}
+.own{
+  border: solid 1px grey;
+  width: 86%;
+  height: 145px;
+  padding: 10%;
+}
+.party{
+  text-decoration: none;
+  font-size: 21px;
+  font-weight: 700;
+  color: black;
+}
+.nim{
+  color: white;
+  font-size: 35px;
+  text-decoration: none;
+}
+.mar{
+  color: white;
+  text-decoration: none;
+  font-size: 33px;
+  font-weight: 700;
+  padding: 0% 13% 0% 1%;
+}
+.con{
+  font-size: 30px;
+  text-decoration: none;
+  color: black;
+  padding: 0% 51% 0% 1%;
+}
+.greyy{
+  color: grey;
+}
